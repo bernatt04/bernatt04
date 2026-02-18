@@ -1,89 +1,107 @@
-<h1 align="center">Hi 👋, I'm Bernardo</h1>
-<h3 align="center">Final-year Computer Engineering Student | Building my path in Cloud & Computer Vision</h3>
+<!-- Minimal Professional Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=140&section=header"/>
+</p>
+
+<h1 align="center">Bernardo</h1>
 
 <p align="center">
-  🎓 Universitat Politècnica de València (UPV) <br>
-  🌍 Valencia, Spain <br>
-  🧠 Interested in Cloud Infrastructure & Computer Vision <br>
-  🚀 Currently building my engineering foundations
+  Final-Year Computer Engineering Student <br>
+  Universitat Politècnica de València · Valencia, Spain
+</p>
+
+<p align="center">
+  Cloud Computing · Distributed Systems · Computer Vision
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Profile
 
-- 🎓 Final-year Computer Engineering student at UPV  
-- 🏢 Experience in IT Operations & Infrastructure Coordination in a tech-driven company  
-- ☁️ Strong interest in Cloud Computing, Distributed Systems and scalable architectures  
-- 👁️ Curious about Computer Vision and applied AI  
-- 📈 Focused on long-term technical growth rather than shortcuts  
+Final-year Computer Engineering student with a strong interest in cloud infrastructure, distributed systems, and computer vision.
 
-I enjoy understanding how systems work under the hood — from low-level languages to scalable backend services.
+I am particularly motivated by understanding how systems operate internally — from low-level programming concepts to scalable backend architectures. My goal is to build solid engineering foundations that allow me to design robust and efficient systems in the future.
+
+I have experience supporting IT operations and infrastructure coordination within a technology-driven company, which strengthened my understanding of real-world technical environments and operational workflows.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Overview
 
-### 👨‍💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,c,cpp,haskell,go" />
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-- Prolog  
-- SQL  
+```json
+{
+  "focus": ["Cloud Infrastructure", "Distributed Systems"],
+  "interests": ["Computer Vision", "Scalable Architectures"],
+  "background": "Computer Engineering",
+  "location": "Valencia, Spain"
+}
+```
 
 ---
 
-## ☁️ Areas of Interest
+## Tech Stack
+
+### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,c,cpp,haskell,go" />
 </p>
 
-- Cloud Infrastructure  
-- Distributed Systems  
-- Backend Engineering  
-- Computer Vision  
-- Scalable architectures  
+Additional:
+- SQL
+- Prolog
 
 ---
 
-## 📊 GitHub Stats
+### Technologies & Environment
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernatt04&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernatt04&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,git" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Engineering Interests
 
-- Strengthening system design fundamentals  
-- Exploring cloud-native technologies  
-- Building meaningful technical projects  
+- Cloud-native architectures  
+- Infrastructure design principles  
+- Distributed systems fundamentals  
+- Computer vision applications  
+- Performance-aware programming  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernatt04&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernatt04&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+- Deepening system design knowledge  
+- Exploring cloud ecosystem tools  
+- Strengthening problem-solving skills  
 - Preparing for professional engineering roles  
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/TU-LINK-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building solid foundations today to engineer scalable systems tomorrow.</i>
+  <i>Engineering is not about trends — it's about building systems that last.</i>
 </p>
