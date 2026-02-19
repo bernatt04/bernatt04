@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,40:1e3a8a,70:312e81,100:0f172a&height=190&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0f19,100:111827&height=180&section=header" />
 </p>
-
 
 <h1 align="center">Bernardo</h1>
 
