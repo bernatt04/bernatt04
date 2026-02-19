@@ -10,7 +10,11 @@
 </p>
 
 <p align="center">
-  Cloud Computing · Distributed Systems · Computer Vision
+  <a href="https://www.linkedin.com/in/TU-LINK-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Valencia%2C%20Spain-111827?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Distributed%20Systems-111827?style=flat" />
 </p>
 
 ---
@@ -25,38 +29,36 @@ I have experience supporting IT operations and infrastructure coordination withi
 
 ---
 
-## Technical Overview
+## Engineering Snapshot
 
-```json
-{
-  "focus": ["Cloud Infrastructure", "Distributed Systems"],
-  "interests": ["Computer Vision", "Scalable Architectures"],
-  "background": "Computer Engineering",
-  "location": "Valencia, Spain"
-}
-```
+**Core Focus**  
+Cloud Infrastructure · Distributed Systems  
+
+**Technical Interests**  
+Computer Vision · Scalable Architectures · Performance-Oriented Systems  
+
+**Academic Background**  
+Computer Engineering  
+
+**Location**  
+Valencia, Spain  
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
-
+### Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,c,cpp,haskell,go" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,linux,docker,git" />
 </p>
 
-Additional:
-- SQL
-- Prolog
-
----
-
-### Technologies & Environment
-
+### Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,git" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
 </p>
+
+### Additional Experience
+Java · JavaScript/Node · SQL · Prolog · Haskell  
 
 ---
 
@@ -73,11 +75,8 @@ Additional:
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernatt04&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernatt04&theme=github-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bernatt04&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bernatt04&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -88,16 +87,6 @@ Additional:
 - Exploring cloud ecosystem tools  
 - Strengthening problem-solving skills  
 - Preparing for professional engineering roles  
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINK-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
