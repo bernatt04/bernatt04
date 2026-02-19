@@ -1,6 +1,5 @@
-<!-- Minimal Professional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=180&section=header&text=Hola%20👋%20Soy%20Bernardo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=160&section=header&text=Tu%20Nombre&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
 </p>
 
 
