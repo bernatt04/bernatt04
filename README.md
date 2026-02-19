@@ -1,7 +1,8 @@
 <!-- Minimal Professional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=180&section=header&text=Hola%20👋%20Soy%20Tu%20Nombre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
 
 <h1 align="center">Bernardo</h1>
 
