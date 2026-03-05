@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINK-AQUI">
+  <a href="https://www.linkedin.com/in/bernardocastera/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Valencia%2C%20Spain-111827?style=flat" />
@@ -49,7 +49,7 @@ Valencia, Spain
 
 ### Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,rust,python,go,c,cpp,linux,docker,git" />
 </p>
 
 ### Cloud & Infrastructure
